@@ -19,7 +19,7 @@ def translate_string_case(*,
     print(translate_string_case(variable_name="SCREAMING_TO_PASCAL", current_case="screaming", wanted_case="pascal"))
     >>> ScreamingToPascal
     
-    print(translate_string_case(variable_name="camelToKebab", current_case="is_is_obviously_camel_dont_you_see", wanted_case="just_read_the_last_word"))
+    print(translate_string_case(variable_name="camelToKebab", current_case="it_is_obviously_camel_dont_you_see", wanted_case="just_read_the_last_word"))
     >>> None
 
     Features
