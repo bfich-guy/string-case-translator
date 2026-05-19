@@ -1,7 +1,7 @@
 [project]
-name = "sct"
+name = "string-case-translator"
 version = "1.0.2"
-description = "A DevTool for converting strings in different cases."
+description = "A DevTool for converting strings in different cases"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
