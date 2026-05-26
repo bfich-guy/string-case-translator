@@ -1,0 +1,1 @@
+SLOGAN: str = "string_case_translator. Making code easy!"

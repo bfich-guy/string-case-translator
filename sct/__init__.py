@@ -1,1 +1,0 @@
-from .main import translate_string_case
